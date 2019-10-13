@@ -8,3 +8,7 @@ Please follow this pattern while addding new items in the list :point_down:
     - (who can/how to) apply
   - How will this be helpful 
   - Timeline to apply of compelete the tasks
+
+For all those who are new to github markdown I have added a link for you help :grin:  
+[Mastering Markdown](https://guides.github.com/features/mastering-markdown/)  
+[Emojis in markdown](https://gist.github.com/rxaviers/7360908), Because we all love emojis :heart:
