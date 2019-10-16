@@ -31,7 +31,7 @@
   - Institute leaderboard and details in analysis review
   - Filtering for specific organisations' questions and sorting feature
   
-### [Adobe India Women-in-Technology Scholarship](hhttps://research.adobe.com/adobe-india-women-in-technology-scholarship/)
+### [Adobe India Women-in-Technology Scholarship](https://research.adobe.com/adobe-india-women-in-technology-scholarship/)
   - Scholarship for female students of India
   - Gives opportunity of Summer Internship at Adobe India plus full academic tuition fee waiver for 1 year
   - Provides scholarship for Grace Hopper Conference, India.
