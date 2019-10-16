@@ -30,3 +30,13 @@
   - Programming questions for Interview Preparations and enhancing programming skills
   - Institute leaderboard and details in analysis review
   - Filtering for specific organisations' questions and sorting feature
+  
+### [Adobe India Women-in-Technology Scholarship](hhttps://research.adobe.com/adobe-india-women-in-technology-scholarship/)
+  - Scholarship for female students of India
+  - Gives opportunity of Summer Internship at Adobe India plus full academic tuition fee waiver for 1 year
+  - Provides scholarship for Grace Hopper Conference, India.
+  - Eligibilty
+      - A female citizen of India currently enrolled as a full time student in an Indian university.
+      - Should be persuing 4 year BE/B.Tech or Integrated ME/MS/MTech program, major or minor in Computer Science/Engineering, Information Science, Data Science, Electrical/Electronics Engineering, Math and Computing
+  
+  
