@@ -15,3 +15,8 @@
   - Competitive Coding contest conducted by Google
   - One round every month, featuring 3 questions 
   - The questions are based on applying general competitive concepts. Analysis of questions give great intuition on how to tackle the problems and think like a programmer. 
+  
+  ### [Hour of Code](https://hourofcode.com/)
+  - One-hour introduction to computer science, designed to demystify coding
+  - Takes place each year during Computer Science Education Week
+  - Global effort to expose more people to the basics coding, students can participate or host events to get the public exposed to the world of programming and help improve the programming community globally. 
