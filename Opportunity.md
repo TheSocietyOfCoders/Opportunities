@@ -20,3 +20,8 @@
   - One-hour introduction to computer science, designed to demystify coding
   - Takes place each year during Computer Science Education Week
   - Global effort to expose more people to the basics coding, students can participate or host events to get the public exposed to the world of programming and help improve the programming community globally. 
+
+### [Project Euler](https://projecteuler.net/)
+  - Misc. Computer Science problems/questions that encourage critical thinking and developement of skills outside of typical education environment
+  - Keeps students critical problem solving skills sharp if what they are currently learning is not stimulating or they just really love CS!
+  - This is an ongoing. constantly maintained site that is updated weekly with new projects to stay up to date with any and all new CS skillsets and can be helpful for people both in and outside of the traditional schooling world.
