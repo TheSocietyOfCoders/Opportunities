@@ -7,7 +7,7 @@
 
 ### [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
   - An event focues to promote open source
-  - You have to make 5 PRs in github within the month of october to win exicting goodies and a t-shirt of Hacktoberfest
+  - You have to open 4 PRs on valid repositories on GitHub within the month of october to win exicting goodies and a t-shirt of Hacktoberfest
   - Make sure to register yourself on the given website to be eligible for prizes 
   - It is recommended to make PRs which actually contribute to the project not to just increase your count
 
@@ -25,3 +25,8 @@
   - Misc. Computer Science problems/questions that encourage critical thinking and developement of skills outside of typical education environment
   - Keeps students critical problem solving skills sharp if what they are currently learning is not stimulating or they just really love CS!
   - This is an ongoing. constantly maintained site that is updated weekly with new projects to stay up to date with any and all new CS skillsets and can be helpful for people both in and outside of the traditional schooling world.
+  
+### [GeeksforGeeks Practice](https://practice.geeksforgeeks.org/)
+  - Programming questions for Interview Preparations and enhancing programming skills
+  - Institute leaderboard and details in analysis review
+  - Filtering for specific organisations' questions and sorting feature
