@@ -30,3 +30,8 @@
   - Programming questions for Interview Preparations and enhancing programming skills
   - Institute leaderboard and details in analysis review
   - Filtering for specific organisations' questions and sorting feature
+  
+### [Hacktoberfest Swag List](https://hacktoberfestswaglist.com/)
+  - This website contains long list of all the competitions similar to Hacktoberfest which offer cool swags.
+  - It contains the requirements to participate in the contest in order to win swags.
+  - It also lists out further links to blogs for more help.
