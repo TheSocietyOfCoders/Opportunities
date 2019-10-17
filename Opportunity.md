@@ -39,4 +39,7 @@
       - A female citizen of India currently enrolled as a full time student in an Indian university.
       - Should be persuing 4 year BE/B.Tech or Integrated ME/MS/MTech program, major or minor in Computer Science/Engineering, Information Science, Data Science, Electrical/Electronics Engineering, Math and Computing
   
-  
+### [Hacktoberfest Swag List](https://hacktoberfestswaglist.com/)
+  - This website contains long list of all the competitions similar to Hacktoberfest which offer cool swags.
+  - It contains the requirements to participate in the contest in order to win swags.
+  - It also lists out further links to blogs for more help.
