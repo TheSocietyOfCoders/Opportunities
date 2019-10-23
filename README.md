@@ -7,7 +7,7 @@ Please follow this pattern while addding new items in the list :point_down:
   - Some bullet points explaining more about 
     - (who can/how to) apply
   - How will this be helpful 
-  - Timeline to apply of compelete the tasks
+  - Timeline to apply/compelete the tasks
 
 For all those who are new to GitHub markdown, I have added a link for you help :grin:  
 [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)  
