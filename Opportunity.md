@@ -43,3 +43,8 @@
   - This website contains long list of all the competitions similar to Hacktoberfest which offer cool swags.
   - It contains the requirements to participate in the contest in order to win swags.
   - It also lists out further links to blogs for more help.
+  
+### [W3Schools](https://www.w3schools.com/)
+  - This is one of the best website for learning HTML & CSS, JS, Server Side and Web Development.
+  - It provides in-depth tutorials with examples which is good for beginner.
+  - Beginners can also complete their doubts with the help of professionals.
