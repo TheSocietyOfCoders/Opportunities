@@ -1,7 +1,7 @@
 ## List of Opportunities 
 
 ### First one
-  - bullet 1 
+  - Number of jobs are really high for CS students. 
     - nested bullet
   - more bullets
 
