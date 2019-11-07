@@ -1,8 +1,8 @@
 ## List of Opportunities 
 
 ### First one
-  - bullet 1 
-    - nested bullet
+  - What is essential for cs students
+    by pluralsight:[guide](https://www.pluralsight.com/blog/career/cs-and-is-students-need-to-know-by-graduation)
   - more bullets
 
 ### [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
